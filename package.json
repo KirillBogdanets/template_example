@@ -1,0 +1,11 @@
+{
+  "name": "exadel_template_example",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "pre-e2e": "start cmd /k webdriver-manager start"
+  },
+  "dependencies": {
+    "template": "https://github.com/KirillBogdanets/template.git"
+  }
+}
